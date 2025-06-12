@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a1079db0e964fb343833085a8c57e079
+  - enabled: 1
+    path: Assets/Scenes/Black.unity
+    guid: 93d6ae4348f3f014895448d103e21b48
+  - enabled: 1
+    path: Assets/Scenes/Bug_Smash.unity
+    guid: 60dd8fd224807cc4d8778b55ee03c342
+  - enabled: 1
+    path: Assets/Scenes/FD.unity
+    guid: 9d199175be3eb6f479799bb83be5060d
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: d523d89b3c4165247a03c8615b6d5a46
+  - enabled: 1
+    path: Assets/Scenes/Loading2.unity
+    guid: 91d3ee6f87e07a048a7a33e39e731c7c
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: c95a9613d132de4449c62bab264b8523
+  - enabled: 1
+    path: Assets/Scenes/Loose.unity
+    guid: 2b71b1abf240273439ae46f0dccd9fc2
+  - enabled: 1
+    path: Assets/Scenes/Magma Douge.unity
+    guid: 38c0d9549ff315446b373451adbabffc
+  - enabled: 1
+    path: Assets/Scenes/P.unity
+    guid: 2f4d1a4deb6243c4f8115e1d6ca3e363
+  - enabled: 1
+    path: Assets/Scenes/Sand Run.unity
+    guid: 56d90f203abd30b49af823c87851a6fe
+  - enabled: 1
+    path: Assets/Scenes/Testing_Phase.unity
+    guid: a85dd4399facfbc49beb37236bb4f5fa
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 91ae6deb641b2cc48870ee000762e4d0
+  m_configObjects: {}
